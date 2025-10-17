@@ -2,6 +2,8 @@
 ![Logo Re//Make Valorant](https://dashboard.remakeval.fr/assets/img/logo-remake-blanc.png "Logo Re//MakeValorant")
 ## Developper Team
 
-- Canhoo
-- PomPom
-- WanDlay
+- [Canhoo](https://github.com/canhoo361)
+- [Hikarou](https://github.com/Hikarou)
+- [Malebof](https://github.com/Malbof)
+- [PomPom](https://github.com/OMGiTzPomPom)
+- [WanDlay](https://github.com/WanDlay)
