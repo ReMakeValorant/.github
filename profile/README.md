@@ -4,6 +4,6 @@
 
 - [Canhoo](https://github.com/canhoo361)
 - [Hikarou](https://github.com/Hikarou)
-- [Malebof](https://github.com/Malbof)
+- [Malbof](https://github.com/Malbof)
 - [PomPom](https://github.com/OMGiTzPomPom)
 - [WanDlay](https://github.com/WanDlay)
